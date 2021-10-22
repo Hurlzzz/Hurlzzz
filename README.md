@@ -9,6 +9,8 @@
 - Currently learning how to use GitHub :eyes:
 - I’m looking to eventually **Rule the World** :earth_americas:
 
+![Guitar Hero](https://c.tenor.com/HSMSRNtJYzIAAAAC/darth-vader-star-wars.gif)
+
 ## :speech_balloon:	Other Information ##
 
 The purpose of this is to fulfill a class requirement, but to also learn a little more about how things work in the developement space with Github.
