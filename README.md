@@ -59,6 +59,8 @@ function fizzbuzz() {
 </html>
 ```
 
+![FizzBuzz Solution](https://www.tutorialcup.com/wp-content/uploads/2020/06/FizzBuzz.png?ezimgfmt=ng%3Awebp%2Fngcb41%2Frs%3Adevice%2Frscb41-1)
+
 <!---
 Hurlzzz/Hurlzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
